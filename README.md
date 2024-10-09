@@ -3,10 +3,9 @@
 Welcome to Frogs in a Pond, a simple web project where you can practice JavaScript and Flexbox! Each time you click on a frog, it changes its color and position within the pond.
 
 <!-- ![]() -->
-<img src="/Frogs-in-pond-start.jpeg" alt="Frogs in pond - start" width="150" height="150">
-<img src="/Frogs-in-pond-left.jpeg" alt="Frogs in pond - left" width="150" height="150">
-<img src="/Frogs-in-pond-right.jpeg" alt="Frogs in pond - right" width="150" height="150">
-<img src="/Frogs-in-pond-bottom.jpeg" alt="Frogs in pond - bottom" width="150" height="150">
+<img src="/Frogs-in-pond-start.jpeg" alt="Frogs in pond - start" width="300" height="250"> <img src="/Frogs-in-pond-left.jpeg" alt="Frogs in pond - left" width="300" height="250">
+
+<img src="/Frogs-in-pond-right.jpeg" alt="Frogs in pond - right" width="300" height="250"> <img src="/Frogs-in-pond-bottom.jpeg" alt="Frogs in pond - bottom" width="300" height="250">
 
 
 ## Features 🌟
@@ -34,3 +33,7 @@ Welcome to Frogs in a Pond, a simple web project where you can practice JavaScri
 3. Click on any frog to change its color and move it to a new position within the pond.
 
 4. Refresh the page to reset the frogs! 🐸🐸🐸🐸
+
+## Author 👤
+
+- GitHub: [@elledevelope](https://github.com/elledevelope)
