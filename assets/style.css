@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+#pond {
+    height: 100vh;
+    width: 100vw;
+    background-color: lightseagreen;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+}
+
+#frogA {
+    height: 150px;
+    width: 150px;
+    background-color: whitesmoke;
+    margin: 40px;
+    cursor: pointer;
+}
+
+#frogB {
+    height: 150px;
+    width: 150px;
+    background-color: crimson;
+    margin: 40px;
+    cursor: pointer;
+}
+
+#frogC {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    margin: 40px;
+    cursor: pointer;
+}
+
+#frogD {
+    height: 150px;
+    width: 150px;
+    background-color: purple;
+    margin: 40px;
+    cursor: pointer;
+}
