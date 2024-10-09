@@ -22,6 +22,12 @@
     background-color: whitesmoke;
     margin: 40px;
     cursor: pointer;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #frogB {
@@ -30,6 +36,12 @@
     background-color: crimson;
     margin: 40px;
     cursor: pointer;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #frogC {
@@ -38,6 +50,12 @@
     background-color: green;
     margin: 40px;
     cursor: pointer;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #frogD {
@@ -46,4 +64,10 @@
     background-color: purple;
     margin: 40px;
     cursor: pointer;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
